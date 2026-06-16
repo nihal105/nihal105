@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Nihal</h1>
+<h1 align="center">Hi , I'm Muhammed Nihal</h1>
 
 <p align="center">
 Data Analyst | Machine Learning & AI Enthusiast | Python Developer
