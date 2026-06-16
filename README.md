@@ -1,6 +1,8 @@
-# Hi , I'm Muhammed Nihal
+<h1 align="center">Hi 👋, I'm Muhammed Nihal</h1>
 
-### Data Analyst | Machine Learning Enthusiast | AI Developer
+<p align="center">
+Data Analyst | Machine Learning & AI Enthusiast | Python Developer
+</p>
 
 I am passionate about transforming data into actionable insights and building intelligent solutions using Machine Learning, AI, and Data Analytics.
 
@@ -110,12 +112,18 @@ Conducted exploratory data analysis on FIFA player data to identify performance 
 
 ##  Connect With Me
 
-* LinkedIn:www.linkedin.com/in/muhammed-nihal105
+* LinkedIn:- LinkedIn: https://www.linkedin.com/in/muhammed-nihal105
 * Email: muhammednihal5105@gmail.com
 
 ---
 
 Turning data into decisions through analytics and AI.
+
+##
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nihal105&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 
 <!--
