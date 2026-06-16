@@ -1,4 +1,4 @@
-# Hi there , I'm Muhammed Nihal
+# Hi , I'm Muhammed Nihal
 
 ### Data Analyst | Machine Learning Enthusiast | AI Developer
 
