@@ -10,12 +10,11 @@ I am passionate about transforming data into actionable insights and building in
 
 ##  About Me
 
-*  Data Analytics & Business Intelligence
-*  Machine Learning & AI Applications
-*  Python Developer
-*  Financial Data Analysis
-*  Currently learning Deep Learning and MLOps
-
+* Data Analytics & Business Intelligence
+* Machine Learning & Predictive Modeling
+* Dashboard Development (Power BI & Tableau)
+* Python & SQL for Data Analysis
+* Currently Learning Deep Learning & MLOps
 ---
 ## 🛠️ Tech Stack
 
