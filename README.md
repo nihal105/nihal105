@@ -64,20 +64,48 @@ I am passionate about transforming data into actionable insights and building in
 
 ##  Featured Projects
 
-### 📈 [StockVision AI](https://github.com/nihal105/StockVision-AI-Machine-Learning-Powered-Stock-Market-Prediction-and-Technical-Analysis-Platform.)
-Machine learning-powered stock market prediction and technical analysis platform.
+### [StockVision AI](https://github.com/nihal105/StockVision-AI-Machine-Learning-Powered-Stock-Market-Prediction-and-Technical-Analysis-Platform)
 
-### 🎓 [AI-Based Student Placement Prediction System](https://github.com/nihal105/...)
-Predicts placement outcomes using machine learning models.
+**Tech:** Python, Pandas, NumPy, Scikit-Learn, Streamlit
 
-### 🛍️ [TATA Online Retail Analysis](https://github.com/nihal105/...)
-Performed exploratory data analysis on retail transaction data to identify customer purchasing patterns, top-selling products, revenue drivers, and actionable business insights.
+Machine learning-powered stock market prediction and technical analysis platform that leverages predictive models and market indicators to support data-driven investment decisions.
 
-### 📊 [Global Superstore Sales Analysis](https://github.com/nihal105/...)
-Business intelligence dashboard and sales analytics project.
+---
 
-### 🌍 [COVID-19 Global Analysis](https://github.com/nihal105/...)
-Data exploration and visualization of pandemic trends.
+###  [AI-Based Student Placement Prediction System](https://github.com/nihal105/AI-Based-Student-Placement-Prediction-System)
+
+**Tech:** Python, Pandas, Scikit-Learn, Machine Learning
+
+Developed predictive models to forecast student placement outcomes using machine learning algorithms and performance evaluation techniques.
+
+---
+
+###  [TATA Online Retail Analysis](https://github.com/nihal105/End-to-End-Online-Retail-Analytics-Data-Cleaning-EDA-Visualization-Dashboard)
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+Performed end-to-end retail analytics including data cleaning, exploratory data analysis, visualization, and business intelligence reporting to uncover customer behavior and revenue trends.
+
+---
+
+###  [Global Superstore Sales Analysis](https://github.com/nihal105/Global-Superstore-Sales-analysis)
+
+**Tech:** Power BI, Excel, Data Analytics
+
+Built an interactive business intelligence dashboard to analyze sales performance, profitability, customer segments, and regional business trends.
+
+---
+
+###  [FIFA Players Dataset Analysis](https://github.com/nihal105/EDA-Fifa-players-dataset)
+
+**Tech:** Python, Pandas, NumPy, Matplotlib
+
+Conducted exploratory data analysis on FIFA player data to identify performance trends, player attributes, and insights across positions and leagues.
+
+---
+
+ These projects showcase my expertise in Data Analytics, Business Intelligence, Machine Learning, and Python-based problem solving.
+
 ---
 
 ##  Connect With Me
